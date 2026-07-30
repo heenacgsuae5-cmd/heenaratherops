@@ -49,5 +49,5 @@ Building interactive web experiences and exploring the connection between logist
 
 ## 📫 Connect With Me
 
-LinkedIn: Add your profile link here
+LinkedIn:https://www.linkedin.com/in/heena-rather-b8927117b
 Portfolio: Add your website link here
